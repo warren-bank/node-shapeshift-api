@@ -1,0 +1,24 @@
+{
+  "name": "@warren-bank/node-shapeshift-api",
+  "version": "1.0.0",
+  "main": "shapeshift.js",
+  "description": "shapeshift.io API client library for Node.js",
+  "author": "Warren Bank (https://github.com/warren-bank)",
+  "license": "GPL-2.0",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warren-bank/node-shapeshift-api"
+  },
+  "keywords": [
+    "shapeshift",
+    "api",
+    "btc",
+    "bitcoin",
+    "eth",
+    "ether",
+    "crypto-currency",
+    "exchange"
+  ]
+}
