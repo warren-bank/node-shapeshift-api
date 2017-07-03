@@ -1,6 +1,6 @@
 {
   "name": "@warren-bank/node-shapeshift-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "shapeshift.js",
   "description": "shapeshift.io API client library for Node.js",
   "author": "Warren Bank (https://github.com/warren-bank)",
